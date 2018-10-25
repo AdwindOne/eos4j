@@ -121,11 +121,3 @@ String data1 = Ecc.parseAccountData(
 	"EOS8FPooohZiiCAYXahWCQRxgXXzUbS2gNELAeYCUgGdDMbd2FHQT");
 
 ```
-
-# join eos open source 
-
-wechat hl_294944589
- 
-# License
-
-eos4j is released under GNU/GPL Version 3
